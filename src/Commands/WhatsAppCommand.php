@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Ihasan\WhatsApp\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class WhatsAppCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'bagisto-whatsapp-float-chat';
 
     public $description = 'My command';
 

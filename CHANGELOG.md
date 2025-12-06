@@ -1,3 +1,3 @@
 # Changelog
 
-All notable changes to `:package_name` will be documented in this file.
+All notable changes to `bagisto-whatsapp-float-chat` will be documented in this file.
