@@ -2,9 +2,9 @@
 
 namespace Ihasan\WhatsApp\Tests;
 
+use Ihasan\WhatsApp\WhatsAppServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Ihasan\WhatsApp\WhatsAppServiceProvider;
 
 class TestCase extends Orchestra
 {

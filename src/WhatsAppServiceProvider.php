@@ -2,9 +2,9 @@
 
 namespace Ihasan\WhatsApp;
 
+use Ihasan\WhatsApp\Commands\WhatsAppCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Ihasan\WhatsApp\Commands\WhatsAppCommand;
 
 class WhatsAppServiceProvider extends PackageServiceProvider
 {
